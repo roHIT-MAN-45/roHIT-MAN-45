@@ -1,4 +1,4 @@
-[![MasterHead](https://wallpaperaccess.com/full/796833.jpg)]
+![MasterHead](https://wallpaperaccess.com/full/796833.jpg)
 <h1 align="center">Hi 👋, I'm Rohit Chavan</h1>
 <h3 align="center">A passionate full stack web devloper from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
