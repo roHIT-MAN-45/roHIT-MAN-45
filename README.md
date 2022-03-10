@@ -1,11 +1,10 @@
-![MasterHead](https://wallpaperaccess.com/full/796833.jpg)
+<img src="https://media-exp1.licdn.com/dms/image/C5616AQGL9Q8gW2UsbQ/profile-displaybackgroundimage-shrink_350_1400/0/1645776152648?e=1652313600&v=beta&t=GbWduAVAEzPgVf0gdEx8G9fpqITr9EcekbTq8BEvrNQ"/>
 <h1 align="center">Hi 👋, I'm Rohit Chavan</h1>
 <h3 align="center">A passionate full stack web devloper from India</h3>
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit-man-45&label=Profile%20views&color=0e75b6&style=flat" alt="rohit-man-45" /> </p>
 
-- 🔭 I’m currently working on [Anime Peer Website](anime-peer.firebaseapp.com)
+- 🔭 I’m currently working on [Anime Peer Website](https://github.com/roHIT-MAN-45/Anime-Peer)
 
 - 🌱 I’m currently learning **MERN Stack, Mongoose, Express etc.**
 
