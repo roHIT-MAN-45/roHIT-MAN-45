@@ -1,14 +1,14 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I'm Rohit Chavan</h1>
+<h1 align="center">Hi ,👋 I'm Rohit Chavan</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Anime Peer](https://github.com/roHIT-MAN-45/Anime-Peer)**
+- 🔭 I’m currently working on **[Python](https://github.com/roHIT-MAN-45/Python-Password-Generator)**
 
-- 🌱 I’m currently learning **MERN Stack Advance, Express, Mongoose etc.**
+- 🌱 I’m currently learning **Django, FastAPI, Python etc.**
 
 - 📫 How to reach me **rohitchavan110116114@gmail.com**
 
