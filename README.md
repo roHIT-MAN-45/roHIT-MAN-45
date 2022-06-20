@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[Python](https://github.com/roHIT-MAN-45/Python-Password-Generator)**
 
-- 🌱 I’m currently learning **Django, FastAPI, Python etc.**
+- 🌱 I’m currently learning **AWS, Django, FastAPI, Python etc.**
 
 - 📫 How to reach me **rohitchavan110116114@gmail.com**
 
