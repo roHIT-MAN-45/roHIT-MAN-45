@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" src="https://wallpaperaccess.com/full/1555172.jpg" height="634px"/></a>
+<div align="center"><img src="https://wallpaperaccess.com/full/1555172.jpg"/></div>
 
 <h1 align="center">Hi ,👋 I'm Rohit Chavan</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
